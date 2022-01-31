@@ -11,8 +11,6 @@
 
      HACKERS is a print-and-play card game for 4 (or 3 in a pinch) players.
 
-                                      V1.0
-
 
  How can I play?
 
@@ -86,6 +84,7 @@
 
                             [ T H E    M A N U A L ]
 
+                                      V1.0
 
 
  [1] GAME TERMS
