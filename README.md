@@ -9,6 +9,20 @@
 
      HACKERS is a print-and-play card game for 4 (or 3 in a pinch) players.
 
+                                      V1.0
+
+
+ How can I play?
+
+  - Print out the cards, the cardbacks are optional, and slip them in some card
+    sleeves.
+
+  - Gather some friends.
+
+  - RTFM.
+
+  - HACK THE PLANET.
+
 
  How can I help, how can I contribute?
 
@@ -45,8 +59,8 @@
 
  NFO
 
-  Gopher: gopher://baud.baby
-  Fediverse: @cat@hackers.town
+  Gopher: <a href="gopher://baud.baby">gopher://baud.baby</a>
+  Fediverse: <a href="https://hackers.town/@cat">@cat@hackers.town</a>
   VMB: +1 (929) 601-BAUD
   Email: lol.
 
