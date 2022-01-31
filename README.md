@@ -1,3 +1,5 @@
+🚨 WOWIE ZOWIE
+
 <pre>
       ___    __   _______   _______    ___  ___     _________  ______   _______
     .´  /   / /  (___    /.´  _____) .´  / / _/   .´ _____  /.´  ____).´  _____)
@@ -31,6 +33,8 @@
     this game is people sharing it and playing it and having fun. If anyone has
     a line to any of the cast members, let them know too haha. Tell them to
     leave me a voicemail.
+
+  - Make backups, just in case.
 
   - The rules borrow heavily from a game by David Short named "Cypher",
     released by AEG games. I think it's out of print but if you get a chance,
