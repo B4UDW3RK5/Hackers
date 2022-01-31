@@ -7,6 +7,9 @@
  /   /   / // /____/  //   /____  /   /    /  //  /___    /   /       ______/  /
 /___/   /_//_________/ `._______)/___/    /__/ `._____)  /___/       (________/
 
+     HACKERS is a print-and-play card game for 4 (or 3 in a pinch) players.
+
+
                             [ T H E    M A N U A L ]
 
 
@@ -41,20 +44,20 @@
 
  [2] CARD ANATOMY & TERMS
 
-                            .------------------.
-                            |  ....            |
-                            | :[1] :           |
-                            | :    :           |
-                            |  ''''            |
-                            |                  |
-                            |                  |
-                            |  ..............  |
-                            | :[2]    [3]    : |
-                            | :              : |
-                            | :     [4]      : |
-                            | :              : |
-                            |  ''''''''''''''  |
-                            '------------------'
+                             .--------------------.
+                             |  ....              |
+                             | :(1) :             |
+                             | :    :             |
+                             |  ''''              |
+                             |                    |
+                             |                    |
+                             | ..(2)............. |
+                             | : ▒▒▒▒ [  (3)  ] : |
+                             | :                : |
+                             | :      (4)       : |
+                             | :                : |
+                             | '''''''''''''''''' |
+                             '--------------------'
 
     [2.1] DATA VALUE
 
@@ -63,7 +66,7 @@
 
     [2.2] BAUD RATE
 
-          Some card effects only apply to cards with specific BAUD rates, cards
+          Some card effects only apply to cards with specific BAUD RATEs, cards
           are grouped into 3 categories, 300 BAUD, 1200 BAUD & 2400 BAUD.
 
     [2.3] CARD NAME
@@ -130,7 +133,7 @@
     [4.2] TAKING A TURN
 
              [4.2.1] Add a card from your hand to your FILES & resolve the
-                     action described in the card's Info Box if the card's
+                     action described in the card's INFO BOX if the card's
                      criteria are met.
 
              [4.2.2] Add the card from the top of the deck or the card in
@@ -140,7 +143,7 @@
                      after replenishing the SNOOP space then HACK THE PLANET.
 
                      Some cards modify how you draw cards, draw appropriately
-                     where the criteria in the card's Info Box are met, the
+                     where the criteria in the card's INFO BOX are met, the
                      effect of these cards apply to drawing from the DECK
                      only & do not apply if you chose to move the card from
                      the SNOOP space to your hand.
@@ -175,19 +178,12 @@
     [7.1] At the end of the game, each player adds up the DATA VALUE of the
           cards in their FILES & the player with the highest number wins. Easy.
 
+          While in your FILES, some cards modify the DATA VALUE of themselves
+          or other cards in your FILES, adjust the DATA VALUEs appropriately
+          where the criteria in a card's INFO BOX is met when calculating
+          your final score.
+
     [7.2] In the event of a draw, I'm sorry, you have to play again.
-
-
-
- [8] VARIANTS
-
-    [8.1] Open Source. Players hands are kept face up, below their FILES so
-          each player can see what the other players have in their hand.
-
-    [8.2] Encrypted. Players FILES are kept face down. When it's time to HACK
-          THE PLANET, all players overturn their cards before the last round is
-          played. The card in the SNOOP space should remain face up in this
-          variant.
 
 
 

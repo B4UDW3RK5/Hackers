@@ -17,7 +17,8 @@
  How can I play?
 
   - Print out the cards, the cardbacks are optional, and slip them in some card
-    sleeves.
+    sleeves. I recommend to slip them in in front of cards from another game
+    for added rigidity.
 
   - Gather some friends.
 
@@ -26,13 +27,24 @@
   - HACK THE PLANET.
 
 
- How can I help, how can I contribute?
+ How can I help or contribute to the project?
 
-  - Wideband this project, tell your friends, tell your favorite nerd news
-    outlet, tell your lamer neighbor. The only "profit" I want to make from
-    this game is people sharing it and playing it and having fun. If anyone has
-    a line to any of the cast members, let them know too haha. Tell them to
-    leave me a voicemail.
+  - Spread the virus! Tell your friends, tell your favorite nerd news outlet,
+    tell your lamer neighbor. The only "profit" I want to make from this game
+    is people sharing it and playing it and having fun. If anyone has a line to
+    any of the cast members, let them know too haha. Tell them to leave me a
+    voicemail.
+
+    Some things on my wishlist include:
+
+       1. An entry for HACKERS on BoardGameGeek. Don't forget to include the
+          print-and-play files!
+
+       2. A proper backup on Internet Archive, not just an archive of the repo.
+
+       3. Reviews on YouTube.
+
+       4. A Tabletop Simulator port.
 
   - Make backups, just in case.
 
@@ -56,7 +68,8 @@
   hackers.town. Thanks to cDc, Phrack, l0pht, ACiD and all the other stuff that
   energized me as a youth. Thanks to David short for Cypher, it rules. Thanks
   to YTCracker for being the soundtrack while I put this thing together. Thanks
-  to the cast & crew of Hackers for the lore.
+  to the cast & crew of the movie, David Bischoff for the expanded lore in the
+  novelization and cr0bar for the parody that I STILL laugh about to this day.
 
   As always, thank you to you know who and you know who 2. <3
 
@@ -105,20 +118,20 @@
 
  [2] CARD ANATOMY & TERMS
 
-                            .------------------.
-                            |  ....            |
-                            | :[1] :           |
-                            | :    :           |
-                            |  ''''            |
-                            |                  |
-                            |                  |
-                            |  ..............  |
-                            | :[2]    [3]    : |
-                            | :              : |
-                            | :     [4]      : |
-                            | :              : |
-                            |  ''''''''''''''  |
-                            '------------------'
+                             .--------------------.
+                             |  ....              |
+                             | :(1) :             |
+                             | :    :             |
+                             |  ''''              |
+                             |                    |
+                             |                    |
+                             | ..(2)............. |
+                             | : ▒▒▒▒ [  (3)  ] : |
+                             | :                : |
+                             | :      (4)       : |
+                             | :                : |
+                             | '''''''''''''''''' |
+                             '--------------------'
 
     [2.1] DATA VALUE
 
@@ -127,7 +140,7 @@
 
     [2.2] BAUD RATE
 
-          Some card effects only apply to cards with specific BAUD rates, cards
+          Some card effects only apply to cards with specific BAUD RATEs, cards
           are grouped into 3 categories, 300 BAUD, 1200 BAUD & 2400 BAUD.
 
     [2.3] CARD NAME
@@ -194,7 +207,7 @@
     [4.2] TAKING A TURN
 
              [4.2.1] Add a card from your hand to your FILES & resolve the
-                     action described in the card's Info Box if the card's
+                     action described in the card's INFO BOX if the card's
                      criteria are met.
 
              [4.2.2] Add the card from the top of the deck or the card in
@@ -204,7 +217,7 @@
                      after replenishing the SNOOP space then HACK THE PLANET.
 
                      Some cards modify how you draw cards, draw appropriately
-                     where the criteria in the card's Info Box are met, the
+                     where the criteria in the card's INFO BOX are met, the
                      effect of these cards apply to drawing from the DECK
                      only & do not apply if you chose to move the card from
                      the SNOOP space to your hand.
@@ -238,6 +251,11 @@
 
     [7.1] At the end of the game, each player adds up the DATA VALUE of the
           cards in their FILES & the player with the highest number wins. Easy.
+
+          While in your FILES, some cards modify the DATA VALUE of themselves
+          or other cards in your FILES, adjust the DATA VALUEs appropriately
+          where the criteria in a card's INFO BOX is met when calculating
+          your final score.
 
     [7.2] In the event of a draw, I'm sorry, you have to play again.
 
