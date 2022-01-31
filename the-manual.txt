@@ -41,6 +41,21 @@
 
  [2] CARD ANATOMY & TERMS
 
+                            .------------------.
+                            |  ....            |
+                            | :[1] :           |
+                            | :    :           |
+                            |  ''''            |
+                            |                  |
+                            |                  |
+                            |  ..............  |
+                            | :[2]    [3]    : |
+                            | :              : |
+                            | :     [4]      : |
+                            | :              : |
+                            |  ''''''''''''''  |
+                            '------------------'
+
     [2.1] DATA VALUE
 
           This is how many points the card is worth when tallying up the score
