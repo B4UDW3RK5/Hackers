@@ -1,6 +1,4 @@
-<center><blink>🚨</blink> Until such time as someone DMCAs my ass <blink>🚨</blink></center>
-<center>you can purchase nice printed coppies of the game from The Game Crafter</center>
-<center><a href="https://www.thegamecrafter.com/games/hackers1">https://www.thegamecrafter.com/games/hackers1</a>
+🚨 <b>Until such time as someone DMCAs my ass you can purchase nice printed coppies of the game from The Game Crafter: <a href="https://www.thegamecrafter.com/games/hackers1">https://www.thegamecrafter.com/games/hackers1</a>
 
 <pre>
       ___    __   _______   _______    ___  ___     _________  ______   _______
