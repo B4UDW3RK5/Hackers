@@ -26,21 +26,24 @@
  How can I help or contribute to the project?
 
   - Spread the virus! Tell your friends, tell your favorite nerd news outlet,
-    tell your lamer neighbor. The only "profit" I want to make from this game
-    is people sharing it and playing it and having fun. If anyone has a line to
-    any of the cast members, let them know too haha. Tell them to leave me a
-    voicemail.
+    tell Reddit, tell your secret Discord, print a copy for your lamer
+    neighbor. The only "profit" I want to make from this game is people sharing
+    it and playing it and having fun. If anyone has a line to any of the cast
+    members, let them know too haha. Tell them to leave me a voicemail.
 
     Some things on my wishlist include:
 
        1. An entry for HACKERS on BoardGameGeek. Don't forget to include the
           print-and-play files!
 
-       2. A proper backup on Internet Archive, not just an archive of the repo.
+       2. Articles on Hackaday, Hacker News, Lobsters, et al.
 
-       3. Reviews on YouTube.
+       2. A proper backup on Internet Archive, not just a Wayback Machine
+          archive of the repo.
 
-       4. A Tabletop Simulator port.
+       3. Pics of people playing the game, reviews on YouTube. Smiles on faces.
+
+       4. A Tabletop Simulator port for the hard copy averse.
 
   - Make backups, just in case.
 
@@ -148,7 +151,7 @@
     [2.4] INFO BOX
 
           Describes the card action. There are 2 types of card actions, both
-          actions are resolved immediately when triggered.
+          actions are resolved immediately when their criteria is met.
 
              [2.4.1] When Added to your FILES. These actions occur once when
                      a card is added to your FILES from your hand.
@@ -175,7 +178,7 @@
              [3.2.2] The starting player should gather all 20 game cards
                      together & pull out the 300 BAUD Hacker cards, then
                      choose 1 of the 4 300 BAUD Hacker cards & return it to
-                     the box, that hacker is fixing the phones & is out of
+                     the BOX, that hacker is fixing the phones & is out of
                      play for the rest of the game. Canonically Cereal should
                      be fixing the phones but the starting player can choose
                      whichever of the 300 BAUD Hacker cards they please.
