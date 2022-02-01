@@ -1,5 +1,6 @@
 ### 🚨 Until such time as someone DMCAs my ass you can purchase nice printed copies of the game from The Game Crafter: [https://www.thegamecrafter.com/games/hackers1](https://www.thegamecrafter.com/games/hackers1)
 
+
 <pre>
       ___    __   _______   _______    ___  ___     _________  ______   _______
     .´  /   / /  (___    /.´  _____) .´  / / _/   .´ _____  /.´  ____).´  _____)
@@ -35,17 +36,17 @@
 
     Some things on my wishlist include:
 
-       1. An entry for HACKERS on BoardGameGeek. Don't forget to include the
+       1. An entry for HACKERS on <a href="https://boardgamegeek.com">BoardGameGeek</a>. Don't forget to include the
           print-and-play files!
 
-       2. Articles on Hackaday, Hacker News, Lobsters, et al.
+       2. Articles on <a href="https://hackaday.com/">Hackaday</a>, <a href="https://news.ycombinator.com/">Hacker News</a>, <a href="https://lobste.rs/">Lobsters</a>, et al.
 
-       2. A proper backup on Internet Archive, not just a Wayback Machine
+       2. A proper backup on <a href="https://archive.org/">Internet Archive</a>, not just a Wayback Machine
           archive of the repo.
 
-       3. Pics of people playing the game, reviews on YouTube. Smiles on faces.
+       3. Pics of people playing the game, reviews on <a href="https://www.youtube.com/user/thedicetower">YouTube</a>. Smiles on faces.
 
-       4. A Tabletop Simulator port for the hard copy averse.
+       4. A <a href="https://store.steampowered.com/app/286160/Tabletop_Simulator/">Tabletop Simulator</a> port for the hard copy averse.
 
   - Make backups, just in case.
 
