@@ -1,4 +1,4 @@
-### 🚨 Until such time as someone DMCAs my ass you can purchase nice printed copies of the game from The Game Crafter: [https://www.thegamecrafter.com/games/hackers1](https://www.thegamecrafter.com/games/hackers1)
+### 🚨 [The Game Crafter got DMCAd hahaha](https://getyarn.io/yarn-clip/6df310d5-d2b5-445a-8b1e-447008806bad) 🚨
 
 
 <pre>
