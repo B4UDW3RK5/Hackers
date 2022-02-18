@@ -41,12 +41,12 @@
 
        2. Articles on <a href="https://hackaday.com/">Hackaday</a>, <a href="https://news.ycombinator.com/">Hacker News</a>, <a href="https://lobste.rs/">Lobsters</a>, et al.
 
-       2. A proper backup on <a href="https://archive.org/">Internet Archive</a>, not just a Wayback Machine
+       3. A proper backup on <a href="https://archive.org/">Internet Archive</a>, not just a Wayback Machine
           archive of the repo.
 
-       3. Pics of people playing the game, reviews on <a href="https://www.youtube.com/results?search_query=B4UDW3RK5+Hackers&sp=CAI%253D">YouTube</a>. Smiles on faces.
+       4. Pics of people playing the game, reviews on <a href="https://www.youtube.com/results?search_query=B4UDW3RK5+Hackers&sp=CAI%253D">YouTube</a>. Smiles on faces.
 
-       4. A <a href="https://store.steampowered.com/app/286160/Tabletop_Simulator/">Tabletop Simulator</a> port for the hard copy averse.
+       5. A <a href="https://store.steampowered.com/app/286160/Tabletop_Simulator/">Tabletop Simulator</a> port for the hard copy averse.
 
   - Make backups, just in case.
 
