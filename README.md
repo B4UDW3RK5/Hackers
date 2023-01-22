@@ -76,7 +76,7 @@
  NFO
 
   Gopher: <a href="gopher://baud.baby">gopher://baud.baby</a>
-  Fediverse: <a href="https://b4udw3rk5.com/@cat">@cat@b4udw3rk5.com</a>
+  Fediverse: <a href="https://hackers.town/@cat">@cat@hackers.town</a>
   VMB: +1 (929) 601-BAUD
   Email: lol.
 
@@ -177,11 +177,11 @@
 
              [3.2.2] The starting player should gather all 20 game cards
                      together & pull out the 300 BAUD Hacker cards, then
-                     choose 1 of the 4 300 BAUD Hacker cards & return it to
-                     the BOX, that hacker is fixing the phones & is out of
-                     play for the rest of the game. Canonically Cereal should
-                     be fixing the phones but the starting player can choose
-                     whichever of the 300 BAUD Hacker cards they please.
+                     choose 1 of the 4 300 BAUD Hacker cards & set it aside,
+                     that hacker is fixing the phones & is out of play for the
+                     rest of the game. Canonically Cereal should be fixing the
+                     phones but the starting player can choose whichever of
+                     the 300 BAUD Hacker cards they please.
 
              [3.2.3] The starting player should then shuffle the remaining 19
                      cards & deal 3 cards to themselves, face down, then deal
