@@ -76,7 +76,7 @@
  NFO
 
   Gopher: <a href="gopher://baud.baby">gopher://baud.baby</a>
-  Fediverse: <a href="https://hackers.town/@cat">@cat@hackers.town</a>
+  Fediverse: <a href="[https://hackers.town/@cat](https://merveilles.town/@cat)">@cat@merveilles.town</a>
   VMB: +1 (929) 601-BAUD
   Email: lol.
 
